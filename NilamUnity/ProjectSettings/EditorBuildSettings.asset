@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EditMode.unity
     guid: 454ff68571f714546b50cc36497b2241
+  - enabled: 1
+    path: Assets/Scenes/BuildingSystemTesting.unity
+    guid: 7c764ea4ee9b64a4bafc1ba9b6481db2
   m_configObjects: {}
